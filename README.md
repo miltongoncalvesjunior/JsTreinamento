@@ -23,3 +23,9 @@ gitclone https://github.com/miltongoncalvesjunior/JsTreinamento.git
 <p>Lembre-se os arquivos tem quer estar na mesma pasta 📂</p>
 <p> Em seguida abre o arquivo com o navegador de sua escolha</p>
 <h3> :) </h3>
+
+
+
+
+
+As vezes eu jogo os codigos fora só pra refazer tudo denovo
