@@ -1,4 +1,4 @@
-# JsTreinamento, As vezes eu jogo os codigos fora só pra refazer tudo denovo
+
 <h2> Bem Vindo!</h2>
 
 
