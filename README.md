@@ -14,3 +14,7 @@
 <p>***HTML5</p>
 <p>***CSS3</p>
 <p>***JavaScript</p>
+
+
+<p> Se voce quiser dar uma olhadinha fica avontade é simples utilize o comando do git para fazer um clone desse projeto segue abaixo o comando</p>
+gitclone https://github.com/miltongoncalvesjunior/JsTreinamento.git
