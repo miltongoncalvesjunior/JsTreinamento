@@ -18,3 +18,6 @@
 
 <p> Se voce quiser dar uma olhadinha fica avontade é simples utilize o comando do git para fazer um clone desse projeto segue abaixo o comando</p>
 gitclone https://github.com/miltongoncalvesjunior/JsTreinamento.git
+<p>Lembre-se os arquivos tem quer estar na mesma pasta 📂</p>
+<p> Em seguida abre o arquivo com o navegador de sua escolha</p>
+<h3> :) </h3>
