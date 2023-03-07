@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale">
+    <title>Treinamento JavaScript</title>
+    <style type="text/css">
+        * {
+            padding: 0px;
+            margin: 0px;
+            border: 0px;
+
+        }
+
+        h2 {
+            position: relative;
+            font-size: 20px;
+            font-family: sans-serif;
+            color: azure;
+
+        }
+
+        h3 {
+            position: relative;
+            font-size: 15px;
+            font-family: Arial;
+            color: azure;
+
+        }
+
+        h1 {
+
+
+            font-size: 20px;
+            font-family: arial;
+            color: azure;
+        }
+
+        header {
+            background-color: black;
+            padding: 10px;
+        }
+
+        footer {
+            background-color: black;
+            padding: 10px;
+        }
+
+        p {
+            margin: 20px;
+            font-family: Arial;
+            font-size: 20px;
+
+        }
+
+        h4 {
+            font-family: arial;
+            font-size: 20px;
+            margin: 20px;
+
+        }
+
+        a {
+            margin: 20px;
+            font-family: Arial;
+        }
+
+        div {
+            margin: 20px;
+            font-family: Arial;
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h2>Milton Gonçalve Junior</h2>
+        <h1>Treinamento JavaScript</h1>
+    </header>
+    <br>
+
+    <h4>Analise de crédito </h4>
+    <p>Veja o resultado da análise de perfil </p>
+    <br>
+    <br>
+
+    <div>
+        <script type="text/javascript">
+
+            let nomeCliente = prompt("Insira o seu nome e sobrenome")
+            let idadeCliente = prompt("Insira sua idade")
+            let profissaoCliente = prompt(" qual a sua profissão? OBS: deixe em branco caso não possua a informação ")
+            let rendaCliente = prompt("Qual a sua renda atual?")
+
+            document.write("Nome do (a) cliente: " + nomeCliente + "<br/>")
+            document.write("Idade atual :" + idadeCliente + "<br/>")
+            document.write("Profissão: " + profissaoCliente + "<br/>")
+
+            if (rendaCliente >= 3000 && idadeCliente >= 30) {
+                document.write("Parabéns, SEU CREDITO FOI APROVADO NO VALOR DE r$ 10.000,00")
+
+
+            }
+            else {
+                document.write("CRÉDITO NEGADO, TENTE NOVAMENTE EM OUTRO MOMENTO.")
+            }
+
+
+        </script>
+
+    </div>
+
+
+
+
+    <br>
+    <p>Clique no link abaixo para Voltar ao inicio</p>
+    <br>
+    <a href="index.html">Voltar ao inicio</a>
+    <br><br><br>
+
+
+    </br>
+    <footer>
+        <h2>Milton Gonçalve Junior</h2>
+        <h3>Contato: miltongoncalves121513@gmail.com </h3>
+
+    </footer>
+
+</body>
+
+</html>
