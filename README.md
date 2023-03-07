@@ -29,3 +29,5 @@ gitclone https://github.com/miltongoncalvesjunior/JsTreinamento.git
 
 
 As vezes eu jogo os codigos fora só pra refazer tudo denovo
+todo tutorial só trata a parte que vai dar certo . 
+Programação é tentativa  e erro 
