@@ -1,7 +1,6 @@
 # JsTreinamento
 
-<h1>Nesse projeto foram criadas  3 paginas simples 
-Com html CSS3 e JavaScript</h1>
+<h1>Nesse projeto foram criadas  3 paginas simples </h1>
 
 <p>index.html: onde foi feita uma exemplificação a navegação de Link
 <p>Login.html: Login de boas vindas com variaveis basicas 
@@ -10,8 +9,8 @@ Com html CSS3 e JavaScript</h1>
 
 <p>Um pouco de html,css e Javascript</p>
 <p>Trazendo Alguns conceitos basicos  </p>
-<p>#Criamos um login de boas vindas em Javascript<p>
-<p>#Criamos variaveis basicas pra analise <p>
-<p>#
-</p>
+
 <p>***VISUAL STUDIO CODE</p>
+<p> HTML5</p>
+<p> CSS3</p>
+<p> JavaScript</p>
