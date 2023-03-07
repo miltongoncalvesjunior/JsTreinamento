@@ -1,6 +1,8 @@
-# JsTreinamento
+# JsTreinamento, As vezes eu jogo os codigos fora só pra refazer tudo denovo
+<h2> Bem Vindo!</h2>
 
-<h1>Prpjeto pra treinamento analise de credito de um cliente em JavaScript</h1>
+
+<h1>Projeto pra treinamento analise de credito de um cliente em JavaScript</h1>
 
 <p>index.html: onde foi feita uma exemplificação a navegação de Link
 <p>Login.html: Login de boas vindas com variaveis basicas 
